@@ -1,3 +1,8 @@
+
+All development is done in app.component module.
+
+
+
 # JavascriptTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
